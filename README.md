@@ -1,0 +1,2 @@
+# LeetcodeNote
+Notes for Leetcode
